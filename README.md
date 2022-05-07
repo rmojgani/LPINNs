@@ -113,7 +113,7 @@ This work is highly inspired by ``failure modes of PINNs`` [2], and discussion o
 The code to compute the loss landscape of NN is an opensource package, ``PyHessian`` [4], and is modified for our purpose under ``MIT License``. 
 Future work includes generalization of our method to address Kolmogorov n-width using low-rank registeration based auto-encoder/manifold [5]
 
-- \[^1\] [Mojgani, R.](https://www.rmojgani.com) and [Balajewicz, M.](https://scholar.google.com/citations?user=FLg_n08AAAAJ),
+- [^1] [Mojgani, R.](https://www.rmojgani.com) and [Balajewicz, M.](https://scholar.google.com/citations?user=FLg_n08AAAAJ),
 [**Lagrangian basis method for dimensionality reduction of convection dominated nonlinear flows.**](https://arxiv.org/abs/1701.04343)
 arXiv:1701.04343, 2017.
 ([Download](https://arxiv.org/pdf/1701.04343))<details><summary>BibTeX</summary><pre>
