@@ -1,6 +1,6 @@
 # Lagrangian physics-informed neural networks - LPINNs
 
-#### [[project website]](http://pedram.rice.edu/team/)
+#### [[project website]](https://www.researchgate.net/project/Data-driven-modelling-of-convection-dominated-flows)
 <img src="docs/slides.gif" width="500">
 
 ## Table of contents
