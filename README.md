@@ -90,20 +90,15 @@ bash post_LPINN.sh
 ```
 
 ## How to cite?<a name="How_to_cite?"></a>
-- \[0\] [Mojgani, R.](https://www.rmojgani.com), [Balajewicz, M.](https://scholar.google.com/citations?user=FLg_n08AAAAJ), and [Hassanzadeh, P.](http://pedram.rice.edu/director/). "Lagrangian PINNs: A causality-conforming solution to failure modes of physics-informed neural networks", arXiv (2022).([url](https://doi.org/10.1175/JAS-D-20-0214.1))<details><summary>BibTeX</summary><pre>
+- \[0\] [Mojgani, R.](https://www.rmojgani.com), [Balajewicz, M.](https://scholar.google.com/citations?user=FLg_n08AAAAJ), and [Hassanzadeh, P.](http://pedram.rice.edu/director/). "Lagrangian PINNs: A causality-conforming solution to failure modes of physics-informed neural networks", arXiv (2022).([url](https://arxiv.org/abs/2205.02902))<details><summary>BibTeX</summary><pre>
 @article { Mojgani_arxiv_2022,
       author = {Mojgani, Rambod and Balajewicz, Maciej and Hassanzadeh, Pedram},
       title = {Lagrangian PINNs: A causality-conforming solution to failure modes of physics-informed neural networks},
-      journal = {},
+      journal={arXiv preprint arXiv:2205.02902},
       year = 2022,
       month = may,
-      publisher = {},
-      address = {},
-      volume = {},
-      number = {},
-      doi = {},
       pages= {1-15},
-      url = "https://"
+      url = "https://arxiv.org/abs/2205.02902"
 }</pre></details>
 
 ## References
