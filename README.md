@@ -62,7 +62,6 @@ parser.add_argument('--HIDDEN', type=int, default=50, choices=range(1, 10), help
 parser.add_argument('--SEED', type=int, default=0, help='Pseudop-random seed')
 
 # Data parameters
-#parser.add_argument('--NOISE_MAG', type=float, default=0.0001, help='Noise magnitude (ratio to ??? )')
 parser.add_argument('--N', type=int, default=256, choices=range(200, 500), help='Space')
 parser.add_argument('--M', type=int, default=100, choices=range(100, 1000), help='Time')
 
