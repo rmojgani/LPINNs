@@ -6,6 +6,7 @@
 ## Table of contents
 * [Introduction](#Introduction)
 * [Requirements](#Requirements)
+* [To do](#to_do)
 * [Experiments](#Experiments)
     * [Train](#train_sh)
     * [Post](#post_sh)
@@ -33,6 +34,10 @@ Our contribution is threefold
 - [Pytroch 1.10.1](https://pytorch.org/blog/pytorch-1.10-released/)
 - [PyHessian 0.10](https://github.com/amirgholami/PyHessian/)
 
+## To do:<a name="to_do"></a>
+Following codes will be added soon:
+- The function to call PyHessian and export the loss landscape
+- Matlab file to plot the landscapes
 
 ## Experiments
 
