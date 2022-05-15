@@ -1,0 +1,9 @@
+# Python packages
+Python >=3.7.0
+scipy >= 1.8.0
+numpy >= 1.22.3
+torch >= 1.11
+PyHessian >= 0.1
+
+# Not python for reference:
+# Matlab >= 2016b
