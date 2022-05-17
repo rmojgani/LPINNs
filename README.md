@@ -97,7 +97,7 @@ bash post_LPINN.sh
 - \[0\] [Mojgani, R.](https://www.rmojgani.com), [Balajewicz, M.](https://scholar.google.com/citations?user=FLg_n08AAAAJ), and [Hassanzadeh, P.](http://pedram.rice.edu/director/). "Lagrangian PINNs: A causality-conforming solution to failure modes of physics-informed neural networks", arXiv (2022).([url](https://arxiv.org/abs/2205.02902))<details><summary>BibTeX</summary><pre>
 @article { Mojgani_arxiv_2022,
       author = {Mojgani, Rambod and Balajewicz, Maciej and Hassanzadeh, Pedram},
-      title = {Lagrangian PINNs: A causality-conforming solution to failure modes of physics-informed neural networks},
+      title = {Lagrangian {PINN}s: {A} causality-conforming solution to failure modes of physics-informed neural networks},
       journal={arXiv preprint arXiv:2205.02902},
       year = 2022,
       month = may,
