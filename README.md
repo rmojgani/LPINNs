@@ -40,9 +40,9 @@ Following codes will be added soon:
 - The function to call PyHessian and export the loss landscape
 - Matlab file to plot the landscapes
 - Pytorch codes for 
-	-- Sequence to sequence learning  \[2\]
-	-- Extended sequence to sequence learning (our contribution)  \[0\]
-	-- Curriculum learning   \[2\]
+	- Sequence to sequence learning  \[2\]
+	- Extended sequence to sequence learning (our contribution)  \[0\]
+	- Curriculum learning   \[2\]
 
 
 ## Experiments
