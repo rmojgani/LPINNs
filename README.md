@@ -6,7 +6,7 @@
 ## Table of contents
 * [Introduction](#Introduction)
 * [Requirements](#Requirements)
-* [Will be added)(#to_do)
+* [Will be added](#to_do)
 * [Experiments](#Experiments)
     * [Train](#train_sh)
     * [Post](#post_sh)
