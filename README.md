@@ -6,7 +6,7 @@
 ## Table of contents
 * [Introduction](#Introduction)
 * [Requirements](#Requirements)
-* [To do](#to_do)
+* [Will be added)(#to_do)
 * [Experiments](#Experiments)
     * [Train](#train_sh)
     * [Post](#post_sh)
@@ -36,8 +36,14 @@ Our contribution is threefold
 
 ## To do:<a name="to_do"></a>
 Following codes will be added soon:
+- Lagrangian PINNs for 2D convection 
 - The function to call PyHessian and export the loss landscape
 - Matlab file to plot the landscapes
+- Pytorch codes for 
+-- Sequence to sequence learning
+-- Extended sequence to sequence learning (our contribution)
+-- Curriculum learning  
+
 
 ## Experiments
 
