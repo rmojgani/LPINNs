@@ -40,9 +40,9 @@ Following codes will be added soon:
 - The function to call PyHessian and export the loss landscape
 - Matlab file to plot the landscapes
 - Pytorch codes for 
--- Sequence to sequence learning
--- Extended sequence to sequence learning (our contribution)
--- Curriculum learning  
+	-- Sequence to sequence learning  \[2\]
+	-- Extended sequence to sequence learning (our contribution)  \[0\]
+	-- Curriculum learning   \[2\]
 
 
 ## Experiments
@@ -100,6 +100,7 @@ bash post_LPINN.sh
 ```
 
 ## How to cite?<a name="How_to_cite?"></a>
+To appear in Computer Methods in Applied Mechanics and Engineering
 - \[0\] [Mojgani, R.](https://www.rmojgani.com), [Balajewicz, M.](https://scholar.google.com/citations?user=FLg_n08AAAAJ), and [Hassanzadeh, P.](http://pedram.rice.edu/director/). "Lagrangian PINNs: A causality-conforming solution to failure modes of physics-informed neural networks", arXiv (2022).([url](https://arxiv.org/abs/2205.02902))<details><summary>BibTeX</summary><pre>
 @article { Mojgani_arxiv_2022,
       author = {Mojgani, Rambod and Balajewicz, Maciej and Hassanzadeh, Pedram},
