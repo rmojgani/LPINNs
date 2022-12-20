@@ -101,7 +101,7 @@ bash post_LPINN.sh
 
 ## How to cite?<a name="How_to_cite?"></a>
 To appear in Computer Methods in Applied Mechanics and Engineering
-- \[0\] [Mojgani, R.](https://www.rmojgani.com), [Balajewicz, M.](https://scholar.google.com/citations?user=FLg_n08AAAAJ), and [Hassanzadeh, P.](http://pedram.rice.edu/director/). "Lagrangian PINNs: A causality-conforming solution to failure modes of physics-informed neural networks", arXiv (2022).([url](https://arxiv.org/abs/2205.02902))<details><summary>BibTeX</summary><pre>
+- \[0\] [Mojgani, R.](https://www.rmojgani.com), [Balajewicz, M.](https://scholar.google.com/citations?user=FLg_n08AAAAJ), and [Hassanzadeh, P.](http://pedram.rice.edu/director/). "Kolmogorov n–width and Lagrangian physics-informed neural networks: A causality-conforming manifold for convection-dominated PDEs", Computer Methods in Applied Mechanics and Engineering, Volume 404, pp. 115810, 2023.([arXiv](https://arxiv.org/abs/2205.02902),[Elsevier]([https://arxiv.org/abs/2205.02902](https://www.sciencedirect.com/science/article/pii/S0045782522007666?via%3Dihub)))<details><summary>BibTeX</summary><pre>
 @@article{Mojgani_CMAME_2023,
 	author = {Rambod Mojgani and Maciej Balajewicz and Pedram Hassanzadeh},
 	title = {Kolmogorov n–width and {L}agrangian physics-informed neural networks: {A} causality-conforming manifold for convection-dominated {PDE}s},
@@ -110,6 +110,8 @@ To appear in Computer Methods in Applied Mechanics and Engineering
 	pages = {115810},
 	year = {2023},
 	issn = {0045-7825},
+	archivePrefix="arXiv",
+	eprint={2205.02902},
 	doi = {https://doi.org/10.1016/j.cma.2022.115810},
 	url = {https://www.sciencedirect.com/science/article/pii/S0045782522007666},
 }</pre></details>
