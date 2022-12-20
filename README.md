@@ -112,8 +112,8 @@ To appear in Computer Methods in Applied Mechanics and Engineering
 	issn = {0045-7825},
 	archivePrefix="arXiv",
 	eprint={2205.02902},
-	doi = {https://doi.org/10.1016/j.cma.2022.115810},
-	url = {https://www.sciencedirect.com/science/article/pii/S0045782522007666},
+	doi = {https://doi.org/10.1016/j.cma.2022.115810 },
+	url = {https://www.sciencedirect.com/science/article/pii/S0045782522007666 },
 }</pre></details>
 
 ## References
