@@ -147,7 +147,7 @@ arXiv:1701.04343, 2017.
 
 - \[5\] [Mojgani, R.](https://www.rmojgani.com) and [Balajewicz, M.](https://scholar.google.com/citations?user=FLg_n08AAAAJ),
 [**Low-Rank Registration Based Manifolds for Convection-Dominated PDEs.**](https://ojs.aaai.org/index.php/AAAI/article/view/16116)
-_in Proceedings of Association for the Advancement of Artificial Intelligence, 35(1), 399-407.
+_in Proceedings of Association for the Advancement of Artificial Intelligence_, 35(1), 399-407.
 ([Download](https://ojs.aaai.org/index.php/AAAI/article/view/16116/15923))<details><summary>BibTeX</summary><pre>@article{Mojgani_AAAI_2021, 
 	title={Low-Rank Registration Based Manifolds for Convection-Dominated {PDE}s},
 	volume={35}, 
